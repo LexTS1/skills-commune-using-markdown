@@ -36,7 +36,6 @@ _Welcome to "Communicate using Markdown"! :wave:_
 ### Example
 
 ```md
-# This is an `<h1>` header, which is the largest
 
 ## This is an `<h2>` header
 
@@ -44,12 +43,8 @@ _Welcome to "Communicate using Markdown"! :wave:_
 ```
 
 #### How it looks
-
-# This is an `<h1>` header, which is the largest
-
-## This is an `<h2>` header
-
-###### This is an `<h6>` header, which is the smallest
+# I'm Batman
+###### not captain save a hoe
 
 ### :keyboard: Activity: Edit your file with headers
 
@@ -69,7 +64,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 
 <!--
   <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
+  Made my signature changes
 -->
 
 ---
