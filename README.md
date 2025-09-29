@@ -64,7 +64,6 @@ _Welcome to "Communicate using Markdown"! :wave:_
 
 <!--
   <<< Author notes: Footer >>>
-  Made my signature changes
 -->
 
 ---
